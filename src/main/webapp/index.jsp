@@ -109,7 +109,7 @@
             </div>
 
             <br>
-            <p><i>Delete button works. But sometimes it needs to be pressed several times to make it work.</i></p>
+            <p><i>Delete button works. But sometimes it needs to be pressed several times to make it work.!!</i></p>
 
         </div>
     </div>
